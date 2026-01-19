@@ -1,0 +1,72 @@
+{
+  "name": "KOMMU HARI KISHAN",
+  "email": "kommuharikishan@gmail.com",
+  "phone": "+91 8074834781",
+  "education": [
+    {
+      "degree": "B.Tech, Math & Computing",
+      "institute": "Indian Institute of Technology, Patna",
+      "cgpa": 6.54,
+      "year": "2023-27"
+    },
+    {
+      "degree": "Senior Secondary",
+      "institute": "Sri Chaitanya Junior College",
+      "percentage": 92.3,
+      "year": "2020-22"
+    },
+    {
+      "degree": "Secondary",
+      "institute": "NS Grammer High School",
+      "percentage": 9.8,
+      "year": "2020"
+    }
+  ],
+  "skills": [
+    "Programming: C, C++, Python",
+    "CS Fundamentals: DBMS, OOPs, Computer Networking, Operating Systems",
+    "Frameworks & Libraries: FastAPI, Matplotlib, Pandas, NumPy, Scikit-learn",
+    "Web Development: HTML, CSS, UI/UX (Basics), ReactJS, Tailwind CSS, MongoDB",
+    "Developer Tools: VS Code, Logisim, Figma, Canva, Pixellab, Git, GitHub, LaTeX, Google Colab"
+  ],
+  "experience": [
+    {
+      "company": "Source Techplement",
+      "position": "Frontend Developer Intern",
+      "duration": "June-July, 2025",
+      "description": "Developed a modular calculator app with 5+ tools, optimizing UX across 100% of use cases."
+    },
+    {
+      "company": "Google",
+      "position": "Student Upskilling Launchpad",
+      "duration": "Apr 2025-May 2025",
+      "description": "Enhanced technical communication and problem-solving through 5+ guided mock sessions, 50+ curated DSA problems, and timed interview drills."
+    },
+    {
+      "company": "OpenAI x Nxtwave Buildathon \u201925",
+      "position": "Workshop Participant",
+      "duration": "August 2025",
+      "description": "Deployed an AI-powered workflow with n8n to streamline 100% of the content posting on LinkedIn and X, reducing manual effort by 90%."
+    }
+  ],
+  "projects": [
+    {
+      "name": "File Encrypter \u2013 Secure File Encryption Tool",
+      "description": "Built a cross-platform C++ file encryption tool using AES-256, securing files up to 500+ MB with safe key handling."
+    },
+    {
+      "name": "AI-Voice-Agent",
+      "description": "Created a FastAPI + HTML/CSS/JS voice interface capable of supporting 50+ concurrent sessions."
+    }
+  ],
+  "links": [
+    {
+      "name": "LinkedIn",
+      "url": "https://www.linkedin.com/in/kommu-hari-kishan-b87903287/"
+    },
+    {
+      "name": "Github",
+      "url": "https://github.com/harikishankommu"
+    }
+  ]
+}

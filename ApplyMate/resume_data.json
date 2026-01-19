@@ -1,0 +1,150 @@
+{
+  "name": "KOMMU HARI KISHAN",
+  "email": [
+    "kommuharikishan@gmail.com",
+    "kommu_2301mc12@iitp.ac.in"
+  ],
+  "phone": "+91 8074834781",
+  "education": [
+    {
+      "degree": "B.Tech, Math & Computing",
+      "institution": "Indian Institute of Technology, Patna",
+      "grade": "6.54 (current)",
+      "years": "2023-2027"
+    },
+    {
+      "degree": "Senior Secondary",
+      "institution": "Sri Chaitanya Junior College",
+      "grade": "92.3%",
+      "years": "2020-2022"
+    },
+    {
+      "degree": "Secondary",
+      "institution": "NS Grammer High School",
+      "grade": "9.8",
+      "years": "2020"
+    }
+  ],
+  "skills": [
+    "C",
+    "C++",
+    "Python",
+    "DBMS",
+    "OOPs",
+    "Computer Networking",
+    "Operating Systems",
+    "FastAPI",
+    "Matplotlib",
+    "Pandas",
+    "NumPy",
+    "Scikit-learn",
+    "HTML",
+    "CSS",
+    "UI/UX Basics",
+    "ReactJS",
+    "Tailwind CSS",
+    "MongoDB",
+    "VS Code",
+    "Logisim",
+    "Figma",
+    "Canva",
+    "Pixellab",
+    "Git",
+    "GitHub",
+    "LaTeX",
+    "Google Colab",
+    "Data Structures & Algorithms",
+    "Theory of Computation",
+    "Graphs Theory",
+    "Gen AI",
+    "Probability",
+    "JavaScript",
+    "MERN Stack (MongoDB, Express.js, React.js, Node.js)",
+    "AWS"
+  ],
+  "experience": [
+    {
+      "title": "Frontend Developer Intern",
+      "company": "Techplement",
+      "dates": "June-July, 2025",
+      "description": [
+        "Developed a modular calculator app with 5+ tools (Basic, Scientific, BMI, Finance, Unit Converter), optimizing UX across 100% of use cases.",
+        "Implemented 15+ React components with Tailwind CSS, maintaining 100% mobile responsiveness.",
+        "Leveraged OpenAI for planning and debugging assistance, reducing development time by 30%.",
+        "Collaborated in a 4-member team, boosting delivery efficiency by 25%."
+      ]
+    },
+    {
+      "title": "Student Upskilling Launchpad",
+      "company": "Google",
+      "dates": "Apr 2025-May 2025",
+      "description": [
+        "Enhanced technical communication and problem-solving through 5+ guided mock sessions, 50+ curated DSA problems, and timed interview drills, boosting speed, accuracy, and confidence in real-world coding scenarios."
+      ]
+    },
+    {
+      "title": "AI-Powered Social Media Content Automation Workshop",
+      "company": "OpenAI x Nxtwave Buildathon \u201925",
+      "dates": "August 2025",
+      "description": [
+        "Deployed an AI-powered workflow with n8n to streamline 100% of the content posting on LinkedIn and X, reducing manual effort by 90%",
+        "Incorporated OpenAI models to generate platform-specific summaries, boosting engagement by 30%",
+        "Streamlined multi-platform publishing with real-time updates, optimizing efficiency and maintaining consistency by 50%."
+      ]
+    },
+    {
+      "title": "Organising Committee Member",
+      "company": "Inter-IIT Tech Meet 14.0",
+      "dates": "2025",
+      "description": [
+        "Played a key role in planning, coordination, and successful execution of inter-college technical events at IIT Patna."
+      ]
+    },
+    {
+      "title": "Co-Mentor and Mentor, Student Mentorship Program (SMP)",
+      "company": "IIT Patna",
+      "dates": "2024\u20132025",
+      "description": [
+        "Providing guidance and support to junior batches."
+      ]
+    },
+    {
+      "title": "Volunteer, CCDC Training Team (Placement Cell)",
+      "company": "IIT Patna",
+      "dates": null,
+      "description": [
+        "Supporting training and placement activities to improve student employability."
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "File Encrypter \u2013 Secure File Encryption Tool",
+      "description": [
+        "Built a cross-platform C++ file encryption tool using AES-256, securing files up to 500+ MB with safe key handling.",
+        "Enabled multi-file encryption/decryption, password protection, and robust I/O handling, reducing failures by 90%.",
+        "Developed an optimized CLI supporting 10+ files per run, improving execution speed by 35%."
+      ],
+      "link": "https://github.com/harikishankommu/File-Encryptor"
+    },
+    {
+      "name": "AI-Voice-Agent",
+      "description": [
+        "Created a FastAPI + HTML/CSS/JS voice interface capable of supporting 50+ concurrent sessions.",
+        "Incorporated Gemini LLM, AssemblyAI STT (>95% accuracy), and Murf AI TTS for natural response generation.",
+        "Deployed session-based chat history and real-time voice-to-voice interaction pipeline."
+      ],
+      "link": "https://github.com/harikishankommu/AI-Voice-Agent"
+    }
+  ],
+  "links": [
+    "https://www.linkedin.com/in/kommu-hari-kishan-b87903287/",
+    "https://github.com/harikishankommu",
+    "https://demo-allin1-calculator.vercel.app/",
+    "https://github.com/harikishankommu/File-Encryptor",
+    "https://github.com/harikishankommu/AI-Voice-Agent",
+    "https://codeforces.com/profile/Harry_Kishan",
+    "https://leetcode.com/u/Harry_Kishan/",
+    "https://www.codechef.com/users/harry_kishan"
+  ]
+}
